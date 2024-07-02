@@ -3,11 +3,11 @@
 #include <ArduinoJson.h>
 
 
-#define APIKEY  "RwxZ3MgXBcW1hB7iIeORFkdyBO3PsZ2n"
-#define DEVICE_DEV_ID "dht11_test_1_device@iiotsme"        //change id device
+#define APIKEY  ""
+#define DEVICE_DEV_ID ""        //change id device
 
-const char ssid[] = "1Oz6-2.4G";             //change SSID wifi
-const char password[] = "1_Oz6@915";     //change password wifi
+const char ssid[] = "";             //change SSID wifi
+const char password[] = "";     //change password wifi
   
 
 void setup()
